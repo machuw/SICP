@@ -1,0 +1,4 @@
+# emacs auto save file
+\#*\#
+# 忽略所有以～结尾的文件
+*~
